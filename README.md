@@ -32,7 +32,11 @@ https://colab.research.google.com/drive/1cigvgbhFbBqdBh2aLmdJ1ytIp_Wm4A2o?usp=sh
 Both datasets were processed and aligned using timestamps to analyze how sentiment affects trading activity and profitability.
 
 ---
-
+# 📊 Market Sentiment vs Trader Behaviour – Data Science Project  
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Colab](https://img.shields.io/badge/Notebook-Google%20Colab-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Dataset](https://img.shields.io/badge/Data-Crypto%20Trading-blueviolet)
 ## 🧠 Objective
 
 - Examine how **trading behavior** (trade count, PnL, volume, risk-taking)  
